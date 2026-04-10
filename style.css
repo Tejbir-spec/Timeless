@@ -145,7 +145,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 
 .navbar.scrolled {
-  background: rgba(42, 37, 32, 0.96);
+  background: rgba(220, 205, 185, 0.96);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   padding: 0.9rem 0;
